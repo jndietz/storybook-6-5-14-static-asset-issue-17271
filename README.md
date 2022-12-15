@@ -1,2 +1,4 @@
-# storybook-6-5-14-static-asset-issue-17271
-Reproduction repository for storybook issue 17271.
+# storybook issue 17271 reproduction with
+
+1. Run `npm install`
+2. Run `npm run storybook`

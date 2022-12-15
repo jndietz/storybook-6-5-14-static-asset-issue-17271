@@ -1,0 +1,21 @@
+@tailwind base;
+
+@tailwind components;
+
+@layer components {
+  html {
+    font-size: 16px;
+  }
+
+  body {
+    @apply text-gray-100;
+  }
+
+  :root {
+    --primary-dark: rgb(0, 99, 65);
+    --primary-main: rgb(0, 99, 65);
+    --primary-contrast: #fff;
+  }
+}
+
+@tailwind utilities;
